@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  background: #c6c6c6;
+}
+
+.wrapper {
+  background: #fff;
+  height: 93%;
+  margin: 0 auto;
+  padding: 0 25px;
+  width: 80%;
+}
